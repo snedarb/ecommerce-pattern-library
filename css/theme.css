@@ -1,0 +1,15 @@
+:root {
+  --color-primary: ;
+  --color-primary-light: ;
+  --color-secondary: ;
+  --color-accent: ;
+
+/* body copy */
+  --font-primary: "Crimson Text", serif;
+  /* headings */
+  --font-secondary: "Dosis", sans-serif;
+}
+
+html {
+  font-family: var(--font-primary);
+}
