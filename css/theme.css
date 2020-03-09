@@ -1,8 +1,8 @@
 :root {
-  --color-primary: ;
+  --color-primary: #312463;
   --color-primary-light: ;
-  --color-secondary: ;
-  --color-accent: ;
+  --color-secondary: #e80970;
+  --color-neutral: #565656;
 
 /* body copy */
   --font-primary: "Crimson Text", serif;
