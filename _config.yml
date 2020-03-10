@@ -2,4 +2,12 @@ permalink: pretty
 theme: jekyll_patternbot
 
 patternbot:
+  title: "miitsuu"
+  description: |
+    miitsuu is an eCommerce website that specializes in selling minimalistic animal-shaped silicone night lights.
   font_url: "https://fonts.googleapis.com/css?family=Crimson+Text|Dosis&display=swap"
+  rationales:
+    typefaces.primary: |
+      Crimson Text was chosen because of its readability and to provide good contrast to the features of the secondary font. This font should be used as the body copy throughout the site.
+    typefaces.secondary: |
+      Dosis was chosen because of its rounded minimalistic features. The font, much like the products being sold, is soft and without jagged edges. This font should be used for headings.
