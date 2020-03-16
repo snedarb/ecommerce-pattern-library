@@ -11,3 +11,7 @@ patternbot:
       Crimson Text was chosen because of its readability and to provide good contrast to the features of the secondary font. This font should be used as the body copy throughout the site.
     typefaces.secondary: |
       Dosis was chosen because of its rounded minimalistic features. The font, much like the products being sold, is soft and without jagged edges. This font should be used for headings.
+    colors.primary: |
+      The primary colours represent.......
+    colors.secondary: |
+      The secondary colours represent.......
