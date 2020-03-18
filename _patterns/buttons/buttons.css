@@ -18,3 +18,13 @@
   color: var(--color-secondary);
   background-color: transparent;
 }
+
+.btn-light {
+  background-color: var(--color-secondary);
+  border-color: var(--color-secondary);
+  color: white;
+}
+
+.btn-light:hover {
+  color: var(--color-primary);
+}
