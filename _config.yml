@@ -6,6 +6,9 @@ patternbot:
   description: |
     miitsuu is an eCommerce website that specializes in selling minimalistic animal-shaped silicone night lights.
   font_url: "https://fonts.googleapis.com/css?family=Crimson+Text|Dosis&display=swap"
+  colors:
+    accent: "--color-secondary"
+    sidebar: "--color-primary"
   rationales:
     typefaces.primary: |
       Crimson Text was chosen because of its readability and to provide good contrast to the features of the secondary font. This font should be used as the body copy throughout the site.
